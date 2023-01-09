@@ -21,4 +21,5 @@
   - ``CSS``
 
   Esquipe:
+  <br>
 [<img src="https://avatars.githubusercontent.com/u/96748058?v=4" width=115><br><sub>Jaime Dantas</sub>](https://github.com/Jaime-Dantas)

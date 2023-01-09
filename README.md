@@ -12,7 +12,6 @@
   Usando uma padaria como exemplo prático, resolvemos contruir um sistema de cadastro e controle de estoque para a mesma, com o intuito de futuramente implementar um sistema de PDV junto a mesma.
   </p>
   
-  <p align="center"><img src="https://user-images.githubusercontent.com/96748058/209453141-215687a0-4d98-4e8d-b3fb-493213a8cb8e.png"></p>
   
   Tecnologias a serem utilizadas
   
